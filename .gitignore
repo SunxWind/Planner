@@ -1,0 +1,9 @@
+/planner/db.sqlite3
+/planner/manage.py
+.idea/
+/.venv/
+planner_vue/node_modules/
+planner/planner/__pycache__/serializers.cpython-311.pyc
+planner/planner/__pycache__/settings.cpython-311.pyc
+planner/planner/__pycache__/urls.cpython-311.pyc
+planner/planner/__pycache__/views.cpython-311.pyc
